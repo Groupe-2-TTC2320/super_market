@@ -1,3 +1,0 @@
-RMSE: 108.9825590085452
-MAE: 89.29832552700006
-Best Params: {'num_leaves': 99, 'learning_rate': 0.01966847846601687, 'feature_fraction': 0.4202053022127381, 'bagging_fraction': 0.611396337774306, 'bagging_freq': 7, 'lambda_l1': 0.006511970200273135, 'lambda_l2': 6.131169976889974e-05, 'min_child_samples': 100, 'objective': 'regression', 'metric': 'rmse', 'random_state': 42, 'verbose': -1}
