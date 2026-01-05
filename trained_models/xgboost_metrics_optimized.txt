@@ -1,0 +1,3 @@
+RMSE: 108.98982922232793
+MAE: 89.33760790669326
+Best Params: {'max_depth': 3, 'learning_rate': 0.013930877267006666, 'subsample': 0.940493704157886, 'colsample_bytree': 0.6526845209927739, 'min_child_weight': 2, 'gamma': 0.7978425188968341, 'reg_alpha': 0.17506790803564837, 'reg_lambda': 0.030918691019533637, 'objective': 'reg:squarederror', 'eval_metric': 'rmse', 'enable_categorical': True, 'random_state': 42, 'n_jobs': -1}
