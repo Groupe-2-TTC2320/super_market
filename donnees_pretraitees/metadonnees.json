@@ -1,0 +1,28 @@
+{
+    "date_creation": "2026-01-05 13:43:09",
+    "donnees_source": "./data/retail_store_inventory.csv",
+    "statistiques": {
+        "train_lignes": 56000,
+        "train_colonnes": 71,
+        "test_lignes": 14100,
+        "test_colonnes": 71,
+        "produits_uniques": 20,
+        "magasins_uniques": 5,
+        "periode_train": "2022-01-01 00:00:00 à 2023-07-14 00:00:00",
+        "periode_test": "2023-07-15 00:00:00 à 2023-12-02 00:00:00"
+    },
+    "features": {
+        "total": 71,
+        "temporelles": 14,
+        "lag": 6,
+        "rolling": 11,
+        "commerciales": 8,
+        "encoded": 15
+    },
+    "targets": {
+        "7_jours_moyenne": 136.49846428571428,
+        "7_jours_std": 109.15217179834444,
+        "30_jours_moyenne": 136.61407142857144,
+        "30_jours_std": 109.25660901212004
+    }
+}
